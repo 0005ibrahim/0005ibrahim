@@ -21,7 +21,7 @@
 <p>💬 Ask me about Sql, Python, JavaScript</p>
 </li>
 <li>
-<p>⚡ Fun fact: Me gustan los girasoles.</p>
+<p>⚡ Fun fact: .</p>
 </li>
 </ul>
 
